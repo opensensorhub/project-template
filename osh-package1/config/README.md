@@ -1,4 +1,4 @@
-This folder contains configuration files for this package.
+This folder contains **Configuration Files** for this package.
 
 For an OSH Java package, this typically includes:
 
