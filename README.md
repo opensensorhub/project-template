@@ -10,4 +10,6 @@ They are used to collect all source code and information useful to build and dep
 * Submodules to point to exact version of OSH core and OSH modules used if not using a release version
 * Build files to build OSH packages (typically one package per type of node)
 
+A project repository includes one or more packages that are usually deployed on different nodes. Each package folder contains source code, config files and scripts needed to build (and sometimes deploy) it.
+
 The suggested folder structure is in this repository and can be cloned to create a new project.
